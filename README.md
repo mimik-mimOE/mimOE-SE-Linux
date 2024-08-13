@@ -16,14 +16,14 @@
 
 ## Installation Guide
 
-1. Download the latest release of mimOE-SE-Linux [here](https://github.com/mimik-mimOE/mimOE-SE-Linux/releases).
+1. Download the latest .tar files for the latest release [HERE](https://github.com/mimik-mimOE/mimOE-SE-Linux/releases).
 2. Create a new directory.
-3. Move the downloaded package to the newly created directory.
+3. Move the downloaded .tar file to the newly created directory.
 4. Open a terminal and navigate to the directory containing the downloaded `.tar` file.
 5. Untar the package using the following command, replacing `<downloaded mimOE tar file>` with the actual filename. For example, for X86-64 (AMD64) Linux Ubuntu:
 
    ```
-   tar xvf mimOE-SE-linux-developer-amd64-v3.12.0.tar
+   tar xvf mimOE-SE-linux-developer-AMD64-v3.12.0.tar
    ```
 
 6. Run the start script to launch mimOE:
