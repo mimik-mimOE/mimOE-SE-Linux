@@ -1,5 +1,5 @@
 
-# mimOE-SE-Linux v3.12.0
+# mimOE-SE-Linux
 
 **mimOE (mim Operating Environment)**, mimOE-SE-Linux Standard Edition for Ubuntu Linux, supports the following platforms and architectures:
 
